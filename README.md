@@ -18,7 +18,7 @@ As an example, the search query `bacon` has 40 results on the first page. Of the
 
 When searching for `bacon`:
 
-![comparison](comparison.png)
+![search_comparison](search_comparison.png)
 
 ## Solution
 
